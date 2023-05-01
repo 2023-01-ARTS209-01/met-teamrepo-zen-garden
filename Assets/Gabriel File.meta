@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Gabriel File.meta
 guid: 78a11664003b401479b311f7a9e07b17
 folderAsset: yes
+========
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+>>>>>>>> 4b1644f25efdd1ef8cd8634062aa850db6ae5f22:Assets/Wyatt/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

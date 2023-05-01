@@ -4,11 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Gabriel File/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Gabriel File/zzz_SampleProfessorWalk/ProfessorWalkSample.unity
-    guid: d1d796ec2224ba2438a16633aa31a33c
+  m_Scenes: []
   m_configObjects: {}
